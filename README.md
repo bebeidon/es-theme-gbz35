@@ -8,7 +8,7 @@ This theme pulls heavily from the [Carbon](https://github.com/RetroPie/es-theme-
 
 Changelog
 -----------
-
+- Update 24.08.19: Added PCEngine CD, Turbografx CD and Mega CD
 - Update May 6, 2018: Fix broken Famicom & Super Famicom logos
 - Update Apr 24, 2018: Added Dreamcast
 - Update Feb 26, 2018: Added Famicom, Super Famicom, & TurboGraphx-16 theme; made multiple logo texts white on Dark theme; updated Genesis/MegaDrive & PCEngine/TG16 logos to use official theming process ([see here](https://github.com/retropie/retropie-setup/wiki/Mega-Drive-Genesis) to get the Genesis logo back, and [see here](https://github.com/retropie/retropie-setup/wiki/PC-Engine) to get TG16 logo back)
